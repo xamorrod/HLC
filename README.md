@@ -1,6 +1,8 @@
 # DOMO
 Repositorio básico para desplegar el entorno de domótica con Docker Compose
 
+Añadiendo información para Pull Request
+
 ## Arquitectura
 ![alt text](https://github.com/ManoloTech/domo/blob/main/images/arch.png)
 
